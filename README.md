@@ -5,6 +5,7 @@
 ![img](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg?w=204&h=204)
 
 
+ 
   <figure contenteditable="false" data-ke-align="alignCenter" style="width:100%; max-width: 600px; margin: 0 auto; font-family: Apple SD Gothic Neo;">
     <div style="border-radius: 10px; font-size:1em; overflow:hidden; border:solid 1px #C4C4C4; box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%); display: flex; flex-direction: column;">
       <a href="https://sports.news.naver.com/news?oid=117&aid=0003688168" target="_blank" rel="noopener" style="text-decoration: none; width: 100%;">  
