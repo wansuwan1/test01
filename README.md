@@ -4,7 +4,7 @@
 
 
   <div style="max-width: 470px; width: 100%; height: fit-content;">
-    <iframe class="instagram-media instagram-media-rendered" frameborder="0" width="100%" height="780px" scrolling="no" src="https://www.instagram.com/p//embed/captioned/"></iframe>
+    <iframe class="instagram-media instagram-media-rendered" frameborder="0" width="100%" height="780px" scrolling="no" src="https://www.instagram.com/p/18206286949174828/embed/captioned/"></iframe>
   </div>
   <script async src="https://www.instagram.com/embed.js"></script>
   
